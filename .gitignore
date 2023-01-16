@@ -5,3 +5,8 @@ elasticsearch/certs
 etcd_data
 apisix_log
 grafana_data
+mysql
+standalone-logs
+
+
+~image/mysql/8/Dockerfile
