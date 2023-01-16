@@ -1,0 +1,7 @@
+elasticsearch/esdata01
+elasticsearch/esdata02
+elasticsearch/esdata03
+elasticsearch/certs
+etcd_data
+apisix_log
+grafana_data
